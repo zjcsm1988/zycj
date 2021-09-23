@@ -121,16 +121,6 @@
             ]
         },
         {
-            "key": "688资源站",
-            "name": "688资源站,
-            "type": 0,
-            "api": "http://avzy6888.com/inc/api.php",
-            "playUrl": "",
-            "categories": [
-                
-            ]
-        },
-        {
             "key": "柚子資源",
             "name": "柚子資源",
             "type": 0,

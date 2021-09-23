@@ -1,0 +1,365 @@
+{
+    "sites": [
+        {
+            "key": "辣椒",
+            "name": "辣椒",
+            "type": 0,
+            "api": "https://apilj.com/api.php/Seacms/vod",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "花椒",
+            "name": "花椒",
+            "type": 0,
+            "api": "https://apihjzy.com/api.php/Seacms/vod",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "芒果（限成年人）",
+            "name": "芒果（限成年人）",
+            "type": 0,
+            "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+           "key": "BT天堂（限成年人）",
+            "name": "BT天堂（限成年人）",
+            "type": 0,
+            "api": "http://bttcj.com/inc/sapi.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "605資源",
+            "name": "605資源",
+            "type": 0,
+            "api": "http://www.605zy.co/inc/605m3u8.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+        
+         "key": "色色资源站",
+            "name": "色色资源站",
+            "type": 0,
+            "api": "http://sscj8.com/inc/sapi.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+         "key": "玖玖资源站",
+            "name": "玖玖资源站",
+            "type": 0,
+            "api": "http://99zywcj.com/inc/sck.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+         "key": "狼少年资源站",
+            "name": "狼少年资源站",
+            "type": 0,
+            "api": "http://cjmygzy.com/inc/sapi.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "富二代资源站",
+            "name": "富二代资源站",
+            "type": 0,
+            "api": "http://f2dcj6.com/sapi",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "久草资源站",
+            "name": "久草资源站",
+            "type": 0,
+            "api": "http://jcspcj8.com/sapi",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "JAV名优资源站",
+            "name": "JAV名优资源站",
+            "type": 0,
+            "api": "http://mygzycj.com/sapi.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "博天堂资源站",
+            "name": "博天堂资源站",
+            "type": 0,
+            "api": "http://bttcj.com/inc/sapi.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "688资源站",
+            "name": "688资源站,
+            "type": 0,
+            "api": "http://avzy6888.com/inc/api.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "柚子資源",
+            "name": "柚子資源",
+            "type": 0,
+            "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "小黄瓜资源",
+            "name": "小黄瓜资源",
+            "type": 0,
+            "api": "http://cj.xhgcjym.com/inc/api.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "佳丽TV资源网,
+            "name": "佳丽TV资源网",
+            "type": 0,
+            "api": "https://jialiapi.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "速播资源",
+            "name": "速播资源",
+            "type": 0,
+            "api": "http://www.subo988.com/inc/api.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "茄子资源",
+            "name": "茄子资源",
+            "type": 0,
+            "api": "http://ssl.qieziapi.xyz/inc/api.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "花椒资源网",
+            "name": "花椒资源网",
+            "type": 0,
+            "api": "https://cj.apihjzy.com/inc/api.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "老鴨資源",
+            "name": "老鴨資源",
+            "type": 0,
+            "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "安逸影院",
+            "name": "安逸影院",
+            "type": 0,
+            "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "天空資源",
+            "name": "天空資源",
+            "type": 0,
+            "api": "https://caiji.tiankongapi.com/inc/api.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "八戒云",
+            "name": "八戒云",
+            "type": 0,
+            "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "快播云",
+            "name": "快播云",
+            "type": 0,
+            "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "穿梭資源",
+            "name": "穿梭資源",
+            "type": 0,
+            "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "速搜資源",
+            "name": "速搜資源",
+            "type": 0,
+            "api": "http://www.susouzy.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "1886資源",
+            "name": "1886資源",
+            "type": 1,
+            "api": "http://cj.1886zy.co/inc/api.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "蘑菇資源",
+            "name": "蘑菇資源",
+            "type": 0,
+            "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "紅牛資源",
+            "name": "紅牛資源",
+            "type": 0,
+            "api": "https://www.hongniuzy.com/inc/api.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "恐怖鴨資源",
+            "name": "恐怖鴨資源",
+            "type": 0,
+            "api": "https://kongbuya.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "北斗星",
+            "name": "北斗星",
+            "type": 0,
+            "api": "https://v8.bdxzyapi.com/inc/api.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "淘片資源",
+            "name": "淘片資源",
+            "type": 0,
+            "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "88資源",
+            "name": "88資源",
+            "type": 0,
+            "api": "http://www.88zyw.net/inc/api.php",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "電影牛",
+            "name": "電影牛",
+            "type": 0,
+            "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "好好資源",
+            "name": "好好資源",
+            "type": 0,
+            "api": "http://haohaozy.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        },
+        {
+            "key": "影派資源",
+            "name": "影派資源",
+            "type": 0,
+            "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
+            "playUrl": "",
+            "categories": [
+                
+            ]
+        }
+    ],
+    "lives": [
+        {

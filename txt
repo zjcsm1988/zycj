@@ -3,7 +3,7 @@
         {
             "key": "辣椒",
             "name": "辣椒",
-            "type": 0,
+            "type": 1,
             "api": "https://apilj.com/api.php/Seacms/vod",
             "playUrl": "",
             "categories": [
@@ -13,7 +13,7 @@
         {
             "key": "花椒",
             "name": "花椒",
-            "type": 0,
+            "type": 1,
             "api": "https://apihjzy.com/api.php/Seacms/vod",
             "categories": [
                 
@@ -53,7 +53,7 @@
         
          "key": "色色资源站",
             "name": "色色资源站",
-            "type": 0,
+            "type": 1,
             "api": "http://sscj8.com/inc/sapi.php",
             "playUrl": "",
             "categories": [
@@ -63,7 +63,7 @@
         {
          "key": "玖玖资源站",
             "name": "玖玖资源站",
-            "type": 0,
+            "type": 1,
             "api": "http://99zywcj.com/inc/sck.php",
             "playUrl": "",
             "categories": [
@@ -73,7 +73,7 @@
         {
          "key": "狼少年资源站",
             "name": "狼少年资源站",
-            "type": 0,
+            "type": 1,
             "api": "http://cjmygzy.com/inc/sapi.php",
             "playUrl": "",
             "categories": [
@@ -83,7 +83,7 @@
         {
             "key": "富二代资源站",
             "name": "富二代资源站",
-            "type": 0,
+            "type": 1,
             "api": "http://f2dcj6.com/sapi",
             "playUrl": "",
             "categories": [
@@ -93,7 +93,7 @@
         {
             "key": "久草资源站",
             "name": "久草资源站",
-            "type": 0,
+            "type": 1,
             "api": "http://jcspcj8.com/sapi",
             "playUrl": "",
             "categories": [
@@ -103,7 +103,7 @@
         {
             "key": "JAV名优资源站",
             "name": "JAV名优资源站",
-            "type": 0,
+            "type": 1,
             "api": "http://mygzycj.com/sapi.php",
             "playUrl": "",
             "categories": [
@@ -113,7 +113,7 @@
         {
             "key": "博天堂资源站",
             "name": "博天堂资源站",
-            "type": 0,
+            "type": 1,
             "api": "http://bttcj.com/inc/sapi.php",
             "playUrl": "",
             "categories": [
@@ -133,7 +133,7 @@
         {
             "key": "小黄瓜资源",
             "name": "小黄瓜资源",
-            "type": 0,
+            "type": 1,
             "api": "http://cj.xhgcjym.com/inc/api.php",
             "playUrl": "",
             "categories": [
@@ -143,7 +143,7 @@
         {
             "key": "佳丽TV资源网,
             "name": "佳丽TV资源网",
-            "type": 0,
+            "type": 1,
             "api": "https://jialiapi.com/api.php/provide/vod/at/xml",
             "playUrl": "",
             "categories": [
@@ -153,7 +153,7 @@
         {
             "key": "速播资源",
             "name": "速播资源",
-            "type": 0,
+            "type": 1,
             "api": "http://www.subo988.com/inc/api.php",
             "playUrl": "",
             "categories": [
@@ -163,7 +163,7 @@
         {
             "key": "茄子资源",
             "name": "茄子资源",
-            "type": 0,
+            "type": 1,
             "api": "http://ssl.qieziapi.xyz/inc/api.php",
             "playUrl": "",
             "categories": [
@@ -173,7 +173,7 @@
         {
             "key": "花椒资源网",
             "name": "花椒资源网",
-            "type": 0,
+            "type": 1,
             "api": "https://cj.apihjzy.com/inc/api.php",
             "playUrl": "",
             "categories": [

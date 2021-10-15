@@ -437,8 +437,12 @@
 "name":"北京新城1077 WHIZRADIO",
 "logo":"http://pic.qingting.fm/2019/1127/20191127023123.jpeg",
 "url":"https://lhttp.qingting.fm/live/20500023/64k.mp3"
-},
-{
+}
+
+
+
+]
+}
 央卫频道C,#genre#
 CCTV1,http://39.134.134.84/000000001000/1000000001000021973/index.m3u8?stbId=000000001000&Contentid=1000000001000021973&livemode=1&channel-id=ystenlive&id=01
 CCTV2,http://39.134.134.84/000000001000/1000000001000012442/index.m3u8?stbId=000000001000&Contentid=1000000001000012442&livemode=1&channel-id=ystenlive&id=01

@@ -1,4 +1,10 @@
 {
+    "uuid":"f5d4a31b-ba3b-452b-8521-e59c1a91c496",
+    "title": "国内电台",
+    "type":"radio",
+
+    "channels": [
+{
 "name":"怀集音乐之声",
 "logo":"http://pic.qingting.fm/2014/0616/20140616100853326.png",
 "url":"https://lhttp.qingting.fm/live/4804/64k.mp3"
